@@ -1,0 +1,27 @@
+2020-10-11 15:00:08,921 INFO c.e.d.c.CartController [main] Cart com.example.demo.model.persistence.Cart@48bfb884 created
+2020-10-11 15:00:48,939 INFO c.e.d.c.OrderController [main] Error with creating order for user test1 
+2020-10-11 15:00:48,959 INFO c.e.d.c.OrderController [main] User test created order 
+2020-10-11 15:00:48,959 INFO c.e.d.c.OrderController [main] Order Created com.example.demo.model.persistence.UserOrder@3d7cc3cb 
+2020-10-11 15:00:56,535 INFO c.e.d.c.UserController [main] Username set with test 
+2020-10-11 15:00:56,540 ERROR c.e.d.c.UserController [main] Creation of User with username test fails 
+2020-10-11 15:00:56,556 INFO c.e.d.c.UserController [main] Username set with test 
+2020-10-11 15:00:56,556 ERROR c.e.d.c.UserController [main] Creation of User with username test fails 
+2020-10-11 15:00:56,565 INFO c.e.d.c.UserController [main] Username set with test 
+2020-10-11 15:09:21,976 INFO c.e.d.c.UserController [main] Username set with test 
+2020-10-11 15:09:21,981 ERROR c.e.d.c.UserController [main] Creation of User with username test fails 
+2020-10-11 15:09:21,996 INFO c.e.d.c.UserController [main] Username set with test 
+2020-10-11 15:09:21,997 ERROR c.e.d.c.UserController [main] Creation of User with username test fails 
+2020-10-11 15:09:22,004 INFO c.e.d.c.UserController [main] Username set with test 
+2020-10-11 15:09:29,332 INFO c.e.d.c.OrderController [main] Error with creating order for user test1 
+2020-10-11 15:09:29,349 INFO c.e.d.c.OrderController [main] User test created order 
+2020-10-11 15:09:29,350 INFO c.e.d.c.OrderController [main] Order Created com.example.demo.model.persistence.UserOrder@3d7cc3cb 
+2020-10-11 15:09:44,279 INFO c.e.d.c.CartController [main] Cart com.example.demo.model.persistence.Cart@2e52fb3e created
+2020-10-11 15:46:01,744 INFO c.e.d.c.UserController [main] Username set with test 
+2020-10-11 15:46:01,749 ERROR c.e.d.c.UserController [main] Creation of User with username test fails 
+2020-10-11 15:46:01,761 INFO c.e.d.c.UserController [main] Username set with test 
+2020-10-11 15:46:01,761 ERROR c.e.d.c.UserController [main] Creation of User with username test fails 
+2020-10-11 15:46:01,768 INFO c.e.d.c.UserController [main] Username set with test 
+2020-10-11 15:46:07,385 INFO c.e.d.c.OrderController [main] Error with creating order for user test1 
+2020-10-11 15:46:07,404 INFO c.e.d.c.OrderController [main] User test created order 
+2020-10-11 15:46:07,404 INFO c.e.d.c.OrderController [main] Order Created com.example.demo.model.persistence.UserOrder@3d7cc3cb 
+2020-10-11 15:46:18,571 INFO c.e.d.c.CartController [main] Cart com.example.demo.model.persistence.Cart@2e52fb3e created
