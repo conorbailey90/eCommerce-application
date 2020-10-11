@@ -52,6 +52,7 @@ public class UserController {
 		System.out.println(createUserRequest.getUsername());
 		System.out.println(createUserRequest.getPassword());
 		System.out.println(createUserRequest.getConfirmPassword());
+
 		LOGGER.info("Username set with {} ", createUserRequest.getUsername());
 		Cart cart = new Cart();
 		cartRepository.save(cart);
@@ -66,6 +67,7 @@ public class UserController {
 		user.setPassword(bCryptPasswordEncoder.encode(createUserRequest.getPassword()));
 
 		userRepository.save(user);
+		LOGGER.info("User created");
 		return ResponseEntity.ok(user);
 	}
 	
